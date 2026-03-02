@@ -1,0 +1,10 @@
+google-genai
+openai
+pydantic
+google-auth
+gspread
+requests
+python-dotenv
+pdf2image
+Pillow
+schedule
